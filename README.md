@@ -1,4 +1,4 @@
 # apnea-coolege
 This is my first git repository
 <br>
-author-utkarsh choudhary
+author-utkarsh Kumar
